@@ -1,0 +1,9 @@
+.colorMain{
+    background-color: #1abc9c;
+    padding: 50px;
+    min-height: 800px;
+}
+
+.min-vh-100 {
+    min-height: 80vh !important;
+}

@@ -1,0 +1,31 @@
+.theColor {
+    background-color: #2c3e50;
+}
+
+.styleBorder {
+    border: 2px solid white;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: blue; */
+    transition: 0.5s;
+}
+
+.styleBorder:hover {
+    background-color: black;
+    border: 2px solid green;
+}
+
+i {
+    transition: 0.5s;
+}
+i:hover {
+    color: red;
+}
+
+.footerEnd {
+    background-color: #1a252f;
+}
